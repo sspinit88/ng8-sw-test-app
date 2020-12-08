@@ -1,0 +1,25 @@
+img {
+  width: 100%;
+  height: auto;
+}
+
+.wrap {
+  width: 320px;
+  height: auto;
+  padding: 24px;
+  margin: 0 auto;
+  margin-bottom: 24px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.75);
+}
+
+.text {
+  text-align: center;
+  font-family: 'Ma Shan Zheng', cursive;
+  font-size: 30px;
+}
+
+.text_color {
+  /*color: blue;*/
+  /*color: red;*/
+  color: green;
+}

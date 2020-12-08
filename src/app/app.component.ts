@@ -7,7 +7,7 @@ import { SwUpdate } from '@angular/service-worker';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
-  array: number[] = [0, 1, 2];
+  array: number[] = [0, 1];
 
   constructor(
     private swUpdate: SwUpdate,
